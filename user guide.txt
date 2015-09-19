@@ -1,0 +1,15 @@
+Admin Login
+-----------------------------------------
+http://localhost/login_checked/admin_login
+ID : admin@gmail.com
+Pass : 123456
+
+Admin Login
+-----------------------------------------
+http://localhost/login_checked/
+ID : ripon@gmail.com
+Pass : 123456
+ID : amit@gmail.com
+Pass : 123456
+ID : kafi@gmail.com
+Pass : 123456
